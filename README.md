@@ -11,3 +11,5 @@
      <li><strong>Analysis the relationship between noise, schools, crime rate, parking areas, and the house price in San Francisco.(141B assignment6.ipynb) <a href="https://github.com/Timmy1123/Timmy1123"> linkedin: Yunbai Zhang</a > </strong></li>
          <p>We find out the distribution of different price level house in San Francisco. Then we want to find which is the most and least expensive. We use folium map to illustrate the distribution of parking areas, schools and high level noise area. 
 </ul>
+<h3> Source</h3>
+   <a href="https://github.com/Timmy1123/Timmy1123"> linkedin: Yunbai Zhang</a>
