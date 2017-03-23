@@ -8,7 +8,7 @@
      <li><strong>Predict and Analysis the median house price of counties in California.[link](https://github.com/Timmy1123/Timmy1123)</strong>
          <p>The house price is closely relevant to our lives. For example, the house prices in Davis dramatically increased from 2012 to               2017, and so it adds budget for education. In my project, What I did is to construct time series model to predict house price             of countries in California in 2017. Then I consider several factors to explain why some counties have relatively high house               price. We analyze from four aspects: Consumer Psychology，Population Density & House Units, Economics factors and social                   factors.</p>
      </li>
-     <li><strong>Analysis the relationship between noise, schools, crime rate, parking areas, and the house price in San Francisco.[link](https://github.com/Timmy1123/Timmy1123)  (141B assignment6.ipynb)</strong></li>
+     <li><strong>Analysis the relationship between noise, schools, crime rate, parking areas, and the house price in San Francisco.(141B assignment6.ipynb) [link](https://github.com/Timmy1123/Timmy1123)</strong></li>
 </ul>
 
 <strong> Describe my project</strong>
