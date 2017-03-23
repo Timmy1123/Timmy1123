@@ -7,7 +7,7 @@
 <strong>
 <ul>
 <li>Analysis the house price in Boston</li>
-<li>Predict and Analysis the median house price of counties in California</li>
-<li>Analysis the nutrient and price of different vegetables and fruits.</li>
+<li>Predict and Analysis the median house price of counties in California.<a herf="https://github.com/Timmy1123/Timmy1123/blob/master/STA%2B141%2BB%2BProject%2BFinal%2BDraft.html"> linkedin Webpage</a ></li>
+<li>Analysis the nutrient and price of different vegetables and fruits.<a herf="https://github.com/Timmy1123/Timmy1123/blob/master/STA%20141B%20assignment4.ipynb"> linkedin Webpage</a ></li>
 </ul>
 </strong>
