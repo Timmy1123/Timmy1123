@@ -1,2 +1,2 @@
-# Timmysdfsdsfdsfdsbffbsdkf
-### sdfflsjfnlsdfdlsfds
+# Hi, welcome to Yunbai's Data Science portfolio
+### About me: I am junior student major in General Math and General Statistic at UC Davis. I come from China, and I have come to Davis since 2014.  In the first two years of UC Davis education, I focused on Mathematical proofs and calculus. Before this I was a postdoctoral researcher and lecturer at UCSD in the Mathematics department. I hold a Ph.D in Machine Learning and Statistics from Carnegie Mellon University where my advisors were Aarti Singh and Alessandro Rinaldo. In my research, I develop and study computationally efficient statistical methodology for understanding complex phenomena in large datasets.
